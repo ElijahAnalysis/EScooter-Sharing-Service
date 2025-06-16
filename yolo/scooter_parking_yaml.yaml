@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Data Science/Improper escooter parking detection/YOLO_scooter_parking_dataset/images/train
+val: /content/drive/MyDrive/Data Science/Improper escooter parking detection/YOLO_scooter_parking_dataset/images/val
+
+nc: 2
+names: ["properly_parked_scooter", "wrongly_parked_scooter"]
